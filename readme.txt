@@ -1,4 +1,5 @@
-JPoP: Just pop-up
+Aparui
 
-just an app that pop-up when u open a specitic website / app :3
+Just an app that pop-up when u open a specitic website / app :3
 
+ 
