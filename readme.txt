@@ -1,5 +1,4 @@
-PPOP : Prompt pop-up
+JPoP: Just pop-up
 
-App for stocking prompt lists and show when you open a IA website like (chatgpt.com, duck.ai, brave.ai, ext). 
-Available on Android & Linux Debian based. 
+just an app that pop-up when u open a specitic website / app :3
 
