@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 import subprocess
 import time
- 
+
 print("Détection active... (Ctrl+C pour arrêter)\n")
  
 dernier_titre = ""
- 
+
+print("Détection active... (Ctrl+C pour arrêter)\n")
+
+dernier_titre = ""
 while True:
     try:
         result = subprocess.run(
@@ -19,4 +22,3 @@ while True:
     except:
         pass
     time.sleep(0.5)
- 
